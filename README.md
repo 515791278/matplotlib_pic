@@ -12,5 +12,5 @@
 
 数学曲线
 
-![image](https://github.com/515791278/matplotlib_pic/blob/master/pic/Figure_1.png)
+![image](https://github.com/515791278/matplotlib_pic/blob/master/pic/Figure_2.png)
 ![image](https://github.com/515791278/matplotlib_pic/blob/master/pic/数学.png)
